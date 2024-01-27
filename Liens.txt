@@ -1,0 +1,55 @@
+============================
+Challenge/ apprentissage:
+============================
+https://100dayscss.com/
+https://cssbattle.dev/
+https://flexboxfroggy.com/
+https://css-tricks.com/
+https://overapi.com/
+============================
+Couleurs:
+============================
+https://colorhunt.co/
+https://coolors.co/
+https://www.khroma.co/
+https://fffuel.co/pppalette/
+https://fffuel.co/cccolor/
+https://fffuel.co/hhhue/
+============================
+Illustrations / icons / svg:
+============================
+https://www.humaaans.com/
+https://www.svgrepo.com/
+https://heroicons.com/
+https://fontawesome.com/icons
+https://www.blobmaker.app/
+https://www.barbuduweb.com/get-waves-creer-des-vagues-en-svg-pour-vos-sites-web/
+https://fr.pattern.monster/
+https://www.smashingmagazine.com/2021/03/svg-generators/
+https://www.softr.io/tools/svg-shape-generator
+https://www.shapedivider.app/
+https://www.magicpattern.design/tools/css-backgrounds
+https://fffuel.co/
+https://unsplash.com/fr (photo libre de droit)
+https://pixabay.com/fr/ (photo libre de droit)
+https://www.pexels.com/fr-fr/ (photo libre de droit)
+============================
+3D:
+============================
+https://spline.design/
+============================
+Cards / buttons / projects:
+============================
+https://cssbuttons.app/
+https://uiverse.io/buttons
+https://uiverse.io/checkboxes
+https://uiverse.io/switches
+https://uiverse.io/cards
+https://uiverse.io/loaders
+https://uiverse.io/inputs
+https://codepen.io/trending
+============================
+
+
+
+
